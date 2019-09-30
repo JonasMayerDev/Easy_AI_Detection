@@ -1,5 +1,5 @@
 # Easy_AI_Detection 
-A easy and fast custom Object Detection installer based on Tensorflow Object Detection API for Linux (Needs Root)
+A easy and fast custom Object Detection installer based on Tensorflow Object Detection API for Linux  (Needs Root)
 
 Clone the Repo:
 git clone https://github.com/BySuxax/Easy_AI_Detection

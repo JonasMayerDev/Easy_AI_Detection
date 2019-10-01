@@ -1,6 +1,6 @@
 #!/bin/bash
 
-gedit Readme.txt&
+gedit README.md&
 
 echo were do you you store your Images? Relative path is possible..
 

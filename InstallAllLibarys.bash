@@ -1,6 +1,6 @@
 #!/bin/bash
 
-gedit README.md&
+emacs README.md&
 
 echo were do you you store your Images? Relative path is possible..
 

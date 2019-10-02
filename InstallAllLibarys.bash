@@ -13,7 +13,7 @@ echo what pretrained model do you want to download? \n[1] Realy fast but less ac
 
 model=2
 
-PKGS=(python3-pip pyqt5-dev-tools python3 git python-tk python-lxml python-pil protobuf-compiler)
+PKGS=(python3-pip pyqt5-dev-tools python3 git python-tk python-lxml python-pil protobuf-compiler emacs gedit)
   
 echo Check if Everything reqired is installed
 

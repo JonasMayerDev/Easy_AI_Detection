@@ -13,13 +13,13 @@ Step by Step:
 2. when the gedit window open: type in the number of clases you want to detect at num_classes: and save it!
 
 
-3. First open the train folder (yourDir/models/research/object_detection/train) with "Open Dir" button: 
+3. First open the train folder and select the train folder (yourDir/models/research/object_detection/train) with "Open Dir" button: 
 
 
 4. When Window has opened with the images start drawing rectangels(with w), type class names and save it. repeat it for every image in train! 
 
 
-5. First open the test folder (yourDir/models/research/object_detection/test) with "Open Dir" button: 
+5. First open the test folder and select the test folder(yourDir/models/research/object_detection/test) with "Open Dir" button: 
 
 
 6. When Window has opened with the images start drawing rectangels(with w), type class names and save it. repeat it for every image in test! 

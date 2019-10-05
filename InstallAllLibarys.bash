@@ -70,6 +70,7 @@ sudo pip3 install contextlib2
 sudo pip3 install jupyter
 sudo pip3 install matplotlib
 sudo pip3 install pandas
+sudo pip3 install utils
 
 
 cd models/research/object_detection

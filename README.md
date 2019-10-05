@@ -58,7 +58,9 @@ item{
 10. run in Terminal first cd ../../../ and then . Create_Graph.bash LAST_SAVED_CHECKPOINT_NUM
 
 
-11 Now you can run the Test file: Ob/models/research/object_detection/object_detection_tutorial.ipynb with Jupiter
+11. Now you can use the Test1.py file to test the training. If you want to us it in a outher project you can use the file but you have to change the sys.path.appand("YOUR path to the Easy_AI_Detection.py file in the repo") 
+
+HAVE FUN!
      
 
 

@@ -13,19 +13,19 @@ Step by Step:
 2. when the gedit window open: type in the number of clases you want to detect at num_classes: and save it!
 
 
-3. First open the train folder and select the train folder (yourDir/models/research/object_detection/train) with "Open Dir" button: 
+3. when LabelImage window opened;  Open the train folder (yourDir/models/research/object_detection/train) with "Open Dir" button: 
 
 
 4. When Window has opened with the images start drawing rectangels(with w), type class names and save it. repeat it for every image in train! 
 
 
-5. First open the test folder and select the test folder(yourDir/models/research/object_detection/test) with "Open Dir" button: 
+5. Then open the test folder and select the test folder(yourDir/models/research/object_detection/test) with "Open Dir" button: 
 
 
 6. When Window has opened with the images start drawing rectangels(with w), type class names and save it. repeat it for every image in test! 
 
 
-7. Add to:         AND SAVE!
+7. when gedit window opened, Add to:         AND SAVE!
 
 def class_text_to_int(row_label):  
     if row_label == 'YOUR_LABEL1':
